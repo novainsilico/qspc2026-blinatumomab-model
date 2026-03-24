@@ -4,15 +4,19 @@ Presented at [QSPC 2026 in Leiden](https://www.qspc.eu/qspc2026/home). The PDF v
 
 ## Full list of references
 
-- **[Liu et al. (2023)]**: Can Liu et al. (2023), Population dynamics of immunological synapse formation induced by bispecific T cell engagers predict clinical pharmacodynamics and treatment resistance, 10.7554/eLife.83659
-- **[D’Argouges et al. (2008)]**: Sandrine d’Argouges et al. (2008), Combination of rituximab with blinatumomab (MT103/MEDI-538), a T cell-engaging CD19-/CD3-bispecific antibody, for highly efficient lysis of human B lymphoma cells, 10.1016/j.leukres.2008.08.025
-- **[Brandl et al. (2006)]**: Christian Brandl et al. (2007), The effect of dexamethasone on polyclonal T cell activation and redirected target cell lysis as induced by a CD19/CD3-bispecific single-chain antibody construct, 10.1007/s00262-007-0298-z
-- **[Zhu et al. (2016)]**: Min Zhu et al. (2016), Blinatumomab, a Bispecific T-cell Engager (BiTE®) for CD-19 Targeted Cancer Immunotherapy: Clinical Pharmacology and Its Implications, 10.1007/s40262-016-0405-4
-- **[Clements et al. (2019)]**: Clements, J.D., Zhu, M., Kuchimanchi, M. et al. Population Pharmacokinetics of Blinatumomab in Pediatric and Adult Patients with Hematological Malignancies. Clin Pharmacokinet 59, 463–474 (2020), ,10.1007/s40262-019-00823-8
-- **[Katz et al. (2022)]**: Katz, D. A., Morris, J. D., Chu, M. P., David, K. A., Thieblemont, C., Morley, N. J., … González-Barca, E. (2022). Open-label, phase 2 study of blinatumomab after frontline R-chemotherapy in adults with newly diagnosed, high-risk DLBCL. Leukemia & Lymphoma, 63(9), 2063–2073. <https://doi.org/10.1080/10428194.2022.2064981>
-- **[Dufner et al. (2019)]**: Vera Dufner, Cyrus M. Sayehli, et al.; Long-term outcome of patients with relapsed/refractory B-cell non-Hodgkin lymphoma treated with blinatumomab. Blood Adv 2019; 3 (16): 2491–2498. doi: <https://doi.org/10.1182/bloodadvances.2019000025>
-- **[Lemarre et al. (2023)]**: P. Lemarre, C. Couty, A. Kulesza, A. Schneider, M. Hanke, A.I. Toledo, J. Bosley, N. Afzal, B. Zhao, F. Alemdehy, P. Boross, L. Koopman, C. Thalhauser; Cytotoxic effects of bispecific T-cell engagers in QSP models under the lens of cell encounter. ACOP 2023
-- **[Couty et al. (2024)]**: Towards A QSP Platform To Support Drug Development In Hematological Cancers ;Towards A QSP Platform To Support Drug Development In Hematological Cancers. ACOP 2024. 10.70534/TTTE6533
+References are shown in the same order as in the poster
+
+- **[1] Lemarre et al. (2023)**: P. Lemarre, C. Couty, A. Kulesza, A. Schneider, M. Hanke, A.I. Toledo, J. Bosley, N. Afzal, B. Zhao, F. Alemdehy, P. Boross, L. Koopman, C. Thalhauser; Cytotoxic effects of bispecific T-cell engagers in QSP models under the lens of cell encounter. ACOP 2023
+- **[2] Couty et al. (2024)**: Claire Couty, Paul Lemarre and Ana Isis Toledo et al., Towards A QSP Platform To Support Drug Development In Hematological Cancers ;Towards A QSP Platform To Support Drug Development In Hematological Cancers. ACOP 2024. 10.70534/TTTE6533
+- **[3] Liao et al. (2024)**: Liao, X., Qi, T., Zhou, J., Liu, C., & Cao, Y. (2024). Optimizing Clinical Translation of Bispecific T‐cell Engagers through Context Unification with a Quantitative Systems Pharmacology Model. Clinical Pharmacology &amp; Therapeutics, 116(2), 415–425. <https://doi.org/10.1002/cpt.3302>
+- **[4] Li et al. (2022)**: Li, T., Hiemstra, I. H., Chiu, C., Oliveri, R. S., Elliott, B., DeMarco, D., Salcedo, T., Egerod, F. L., Sasser, K., Ahmadi, T., & Gupta, M. (2022). Semimechanistic Physiologically‐Based Pharmacokinetic/Pharmacodynamic Model Informing Epcoritamab Dose Selection for Patients With B‐Cell Lymphomas. Clinical Pharmacology; Therapeutics, 112(5), 1108–1119. <https://doi.org/10.1002/cpt.2729>
+- **[5] Liu et al. (2023)**: Can Liu et al. (2023), Population dynamics of immunological synapse formation induced by bispecific T cell engagers predict clinical pharmacodynamics and treatment resistance, 10.7554/eLife.83659
+- **[6] Brandl et al. (2006)**: Christian Brandl et al. (2007), The effect of dexamethasone on polyclonal T cell activation and redirected target cell lysis as induced by a CD19/CD3-bispecific single-chain antibody construct, 10.1007/s00262-007-0298-z
+- **[7] D’Argouges et al. (2008)**: Sandrine d’Argouges et al. (2008), Combination of rituximab with blinatumomab (MT103/MEDI-538), a T cell-engaging CD19-/CD3-bispecific antibody, for highly efficient lysis of human B lymphoma cells, 10.1016/j.leukres.2008.08.025
+- **[8] Zhu et al. (2016)**: Min Zhu et al. (2016), Blinatumomab, a Bispecific T-cell Engager (BiTE®) for CD-19 Targeted Cancer Immunotherapy: Clinical Pharmacology and Its Implications, 10.1007/s40262-016-0405-4
+- **[9] Clements et al. (2019)**: Clements, J.D., Zhu, M., Kuchimanchi, M. et al. Population Pharmacokinetics of Blinatumomab in Pediatric and Adult Patients with Hematological Malignancies. Clin Pharmacokinet 59, 463–474 (2020), ,10.1007/s40262-019-00823-8
+- **[10] Katz et al. (2022)**: Katz, D. A., Morris, J. D., Chu, M. P., David, K. A., Thieblemont, C., Morley, N. J., … González-Barca, E. (2022). Open-label, phase 2 study of blinatumomab after frontline R-chemotherapy in adults with newly diagnosed, high-risk DLBCL. Leukemia & Lymphoma, 63(9), 2063–2073. <https://doi.org/10.1080/10428194.2022.2064981>
+- **[11] Dufner et al. (2019)**: Vera Dufner, Cyrus M. Sayehli, et al.; Long-term outcome of patients with relapsed/refractory B-cell non-Hodgkin lymphoma treated with blinatumomab. Blood Adv 2019; 3 (16): 2491–2498. doi: <https://doi.org/10.1182/bloodadvances.2019000025>
 
 ## Original abstract
 
